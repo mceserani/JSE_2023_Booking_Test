@@ -1,0 +1,26 @@
+{
+  "name": "jse_2023_booking_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mceserani/JSE_2023_Booking_Test.git"
+  },
+  "author": "Matteo Ceserani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mceserani/JSE_2023_Booking_Test/issues"
+  },
+  "homepage": "https://github.com/mceserani/JSE_2023_Booking_Test#readme",
+  "dependencies": {
+    "inquirer": "^9.1.5",
+    "node-fetch": "^2.6.9"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
